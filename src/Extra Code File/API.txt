@@ -1,0 +1,4 @@
+Application ID:  1012250
+Access Key:  7N41nlP1a2mQQqDP3d88k4BesEEj2NKv0ex5-yMc4bg
+Secret key:  6ADahmH1Ll3Lm1RVV-jwAe0eAij2iSdE-1GZ1OCm75Q
+Note: both your Access Key and Secret Key must remain confidential.
